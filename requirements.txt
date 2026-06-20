@@ -1,0 +1,8 @@
+streamlit
+groq
+python-dotenv
+pypdf
+pyttsx3
+streamlit-mic-recorder
+faster-whisper
+ctranslate2
